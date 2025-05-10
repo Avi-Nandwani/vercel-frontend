@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Base API URL - Change this according to your backend URL
-const API_URL = 'http://localhost:5000/api'
+const API_URL = 'https://vercel-backend-lyart-one.vercel.app/'//'http://localhost:5000/api'
 
 // Create axios instance
 const api = axios.create({
